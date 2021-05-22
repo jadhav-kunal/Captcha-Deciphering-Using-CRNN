@@ -21,3 +21,10 @@ The CRNN approach identifies words using three steps:
 3.The output of the LSTM cell is fed into a transcription layer, which takes the character sequence, including redundant characters, and uses a probabilistic approach to clean the output.
 
 
+### Dataset
+The images are 5 letter words that can contain numbers.
+The images have had noise applied to them (blur and a line). 
+They are 200 x 50 PNGs.
+Dataset contains 1070 files.
+
+https://www.kaggle.com/fournierp/captcha-version-2-images
