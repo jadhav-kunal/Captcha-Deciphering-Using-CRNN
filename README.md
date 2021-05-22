@@ -1,1 +1,1 @@
-# Captcha-Deciphering-Using-CRNN
+# Captcha-Deciphering-Using-CNN+RNN
