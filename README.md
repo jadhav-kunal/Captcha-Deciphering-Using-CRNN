@@ -1,5 +1,10 @@
 # Captcha-Deciphering-Using-CNN+RNN
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
 In this application, variations of complex text-based CAPTCHA images will be provided with number of letters, dimensions of images and distortions.
 
 A framework is proposed to decipher the complex text-based CAPTCHAs. 
@@ -27,4 +32,4 @@ The images have had noise applied to them (blur and a line).
 They are 200 x 50 PNGs.
 Dataset contains 1070 files.
 
-https://www.kaggle.com/fournierp/captcha-version-2-images
+[![dataset](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fournierp/captcha-version-2-images)
